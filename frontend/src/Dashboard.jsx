@@ -14,7 +14,7 @@ setRecords
 useEffect(()=>{
 
 fetch(
-"http://127.0.0.1:8000/api/records/"
+"https://breathe-esg-assignment-en1h.onrender.com/api/records/"
 )
 
 .then(
